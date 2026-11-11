@@ -1,2 +1,3 @@
 Hello Git
 Line 2
+hi, welcome to git
